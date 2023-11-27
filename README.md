@@ -1,2 +1,2 @@
-# lng
+# LNG
 LNG Price Pridiction
